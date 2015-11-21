@@ -1,0 +1,10 @@
+Ing. Edagar,
+para probar con el formulario "operador"..
+requisitos:
+1.- seleccione un proyecto
+2.- carge las imagenes
+3.- seleccione la carpeta donde guardar las imagenes(treeview)
+4.- presione boton guardar.
+
+esto por el momento va de esa forma...si no sigue los pasos mencionados
+el sistema guardara la imagen en otra ubicacion.
